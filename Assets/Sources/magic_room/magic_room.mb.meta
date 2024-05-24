@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 7aeb6fd9bda67744d8090be471b2292d
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ali
+    second: {fileID: 2100000, guid: c83ad39413f1a0446932fb1f0a79c077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Appendi Chiave
+    second: {fileID: 2100000, guid: 5395560e98a5ec94dafba7ea0f35a630, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asse
+    second: {fileID: 2100000, guid: f3993b153316df64bb497c1f031944ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: 1707c694d632fb94c8dc35a87de0ebcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Becco
+    second: {fileID: 2100000, guid: d374ca586869c52439076bbda549de67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottiglia
+    second: {fileID: 2100000, guid: 359af814415c2b047b193fb4c3d60a4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Calamaio
+    second: {fileID: 2100000, guid: d70a5cf7a6d295a4cb918100fe21120e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Calderone
+    second: {fileID: 2100000, guid: a0b46969320c376409c028fd16814098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Candela
+    second: {fileID: 2100000, guid: 0a599cf7b16c7464f8c179bd31fd7e91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Candela Luce
+    second: {fileID: 2100000, guid: 0ce1477d3737cae4a95275c87e264d2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Candelabro
+    second: {fileID: 2100000, guid: de8c741b5b4e050449cf39892317056a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cassetti1
+    second: {fileID: 2100000, guid: fccdf7cd653ee7b40b27106405666352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Catena
+    second: {fileID: 2100000, guid: fe918e8cc8ffe7d4989180570acff06a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chiave.001
+    second: {fileID: 2100000, guid: 7ab68633afb024c41ae6fefe60f69c18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chiave.004
+    second: {fileID: 2100000, guid: e695bcbe8f3b67742a2ec6639a3858ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chiave1
+    second: {fileID: 2100000, guid: 103546e9c80969c4f8017541959ac995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clessidra1
+    second: {fileID: 2100000, guid: 8ba606fc0676f8e478ed09f877ff89ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copertina
+    second: {fileID: 2100000, guid: ef9a354178bd0ba4ebed8902d23f209f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copertina.001
+    second: {fileID: 2100000, guid: ffed7ec3bb4d1ea45b03d34c391e9cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copertina.002
+    second: {fileID: 2100000, guid: 9800763b55f8c9245b87f7e8f72e9a07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corpo
+    second: {fileID: 2100000, guid: d086ab3bc8d239840a070db74a4266f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cresta
+    second: {fileID: 2100000, guid: d658620bb0e0a5548969acee16403415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Essenza cristallo.002
+    second: {fileID: 2100000, guid: 622d475119747914c9c5998bc12167c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Essenza cristallo.004
+    second: {fileID: 2100000, guid: d7d5a8f960bd0e64cadce71dd702b600, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Essenza cristallo.006
+    second: {fileID: 2100000, guid: eb01566adafa94f4581d7c63b74062e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Essenza cristallo.008
+    second: {fileID: 2100000, guid: 9b3b89bd3b300a44f9f72119585bf8bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Essenza cristallo1
+    second: {fileID: 2100000, guid: 3523ebc7c438e4a4cb4f96188a6d1803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fiamma
+    second: {fileID: 2100000, guid: 754f36224f2604b4a8126c70dc711bf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forziere Legno
+    second: {fileID: 2100000, guid: ad0ae02eba02b06459e0963e0b4e1363, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forziere Metallo
+    second: {fileID: 2100000, guid: f0f2b5a4f2fb3ae42a8447f400929b00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gancio
+    second: {fileID: 2100000, guid: bda1d35a2cc149346888f6d42358b29d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Libreria
+    second: {fileID: 2100000, guid: 7f90c28f4d57cf442bc956dbf2804df7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Liquido Calderone1
+    second: {fileID: 2100000, guid: 6c83751de9189f94cb934148e2a765fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maniglie
+    second: {fileID: 2100000, guid: cb0b980c6c15fbd48b9dce5b6161c518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mappa Mondo
+    second: {fileID: 2100000, guid: 2e8471260db881749b519106e66a3320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mappamondo
+    second: {fileID: 2100000, guid: 4eff689f55133dd4f908a7a21eaed4c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: bfb28b56043559a4db10aa1e556422e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mattone
+    second: {fileID: 2100000, guid: 4b3d40f64dc7ca147afe58bfd9a234ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagina
+    second: {fileID: 2100000, guid: a1541a2e40519db4da4b4d2e220d1d1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Penna1
+    second: {fileID: 2100000, guid: 00baf49ecd33bad44b04e5df59188d65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pentagramma
+    second: {fileID: 2100000, guid: 24ed7cce686f8b241854c64e1648bc97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pergamena
+    second: {fileID: 2100000, guid: 5c995745804b7344bb6924625a9a4159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Petto
+    second: {fileID: 2100000, guid: 0a56e285355878e428868c49bf4e5489, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piuma1
+    second: {fileID: 2100000, guid: cb5465a92323da74eaa909979390cfd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poggia Sfera
+    second: {fileID: 2100000, guid: b762a17429dfcc343b8d40674a02de60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portachiavi
+    second: {fileID: 2100000, guid: 9c65447080036224bbbd6c50af655925, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pozione.002
+    second: {fileID: 2100000, guid: 72dbdbca529e7f84faab710a2c5abae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pozione.004
+    second: {fileID: 2100000, guid: b3025f656b056de4581d4345ec0485f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pozione1
+    second: {fileID: 2100000, guid: d6fcd4c25165d9e4d8ada5ce5de56f1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ragnatela
+    second: {fileID: 2100000, guid: 14967566933c60340bd877e2accea66c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ragnatela.001
+    second: {fileID: 2100000, guid: 629d9aca7dd4cd4439e7884d90b75463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sabbia1
+    second: {fileID: 2100000, guid: b1ec3d1ab8307a6439c36d13beceb77d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sbarra
+    second: {fileID: 2100000, guid: f9c8d36ab0f6c6145a718eeaf2419fec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sedia
+    second: {fileID: 2100000, guid: 63ebf2eaf2b3f51489c360161438061e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sfera
+    second: {fileID: 2100000, guid: 6401d8a7c0eee444e89a39019cf7b08b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sgabello
+    second: {fileID: 2100000, guid: 7c8896d71c8e7ac48b1057cb6ceae37a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sostegno
+    second: {fileID: 2100000, guid: 65001015721dd9346b63efb2912585f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tappeto
+    second: {fileID: 2100000, guid: 2437e5d6671b6f8488be3ff9f42dc9db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tappo1
+    second: {fileID: 2100000, guid: 6f5d6d57f386b1142bfc99cdd826335f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tavola
+    second: {fileID: 2100000, guid: e23079e8f9526f44eae734cadf70e41a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tavola.002
+    second: {fileID: 2100000, guid: 4e2c6732cdfbb864188a720637f52774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tavolo
+    second: {fileID: 2100000, guid: e8143fda48c4d5046ae46dd5714b06a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teschio
+    second: {fileID: 2100000, guid: e2597d4688717e44f994d4d9b3d49a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Torcia
+    second: {fileID: 2100000, guid: f2581e23393e6f04ca343077cfaa069f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zampe
+    second: {fileID: 2100000, guid: 5e4c099245ec5774b92a999349408118, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
